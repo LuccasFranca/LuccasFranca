@@ -1,13 +1,13 @@
-<h1 align="left">Olá! Eu sou Lucas. Prazer em conhece-lo. 👋<br><br>- 🌱 Estudando Linguagem C<br>- 💬 Me pergunte sobre meus gostos<br>- 📫 Contate-me em: lucas.ryzen7@gmail.com<br>- ⚡ Fato engraçado: Cafeína me da sono<br><br> Lucas França<br><br>Desenvolvedor Back-End<br><br>Me chamo Lucas França, tenho 26 anos e sou natural do Rio de Janeiro.<br>Atualmente estou cursando Gestão da Tecnologia da Informação pela Universidade Estácio de Sá. Sou apaixonado por tecnologia e sistemas.<br><br>---</h1>
+<h3 align="left">Olá! Eu sou Lucas. Prazer em conhece-lo. 👋<br><br>- 🌱 Estudando Linguagem C<br>- 💬 Me pergunte sobre meus gostos<br>- 📫 Contate-me em: lucas.ryzen7@gmail.com<br>- ⚡ Fato engraçado: Cafeína me da sono<br><br> Lucas França<br><br>Desenvolvedor Back-End<br><br>Me chamo Lucas França, tenho 26 anos e sou natural do Rio de Janeiro.<br>Atualmente estou cursando Gestão da Tecnologia da Informação pela Universidade Estácio de Sá. Sou apaixonado por tecnologia e sistemas.<br><br>---</h3>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="10" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="10" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  />
 </div>
 
 ###
