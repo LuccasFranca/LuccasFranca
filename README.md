@@ -1,14 +1,14 @@
 <h1 align="left">Olá! Eu sou Lucas. Prazer em conhece-lo. 👋</h1>
 
-###
+
 
 <p align="left">- 🌱 Estudando Linguagem C<br>- 💬 Me pergunte sobre meus gostos<br>- 📫 Contate-me em: lucas.ryzen7@gmail.com<br>- ⚡ Fato engraçado: Cafeína me da sono<br><br> Lucas França<br><br>Desenvolvedor Back-End<br><br>Me chamo Lucas França, tenho 26 anos e sou natural do Rio de Janeiro.<br>Atualmente estou cursando Gestão da Tecnologia da Informação pela Universidade Estácio de Sá. Sou apaixonado por tecnologia e sistemas.<br><br>---</p>
 
-###
+
 
 <p align="left">Linguagens</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -18,11 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
-###
+
 
 <p align="center">Contate-me</p>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-fran%C3%A7a-835799249/" target="_blank">
@@ -35,10 +35,6 @@
   </a>
 </div>
 
-###
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuccasFranca/LuccasFranca/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuccasFranca/LuccasFranca/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuccasFranca/LuccasFranca/output/github-contribution-grid-snake.svg">
-</picture>
-###
+
+<img src="https://raw.githubusercontent.com/LuccasFranca/LuccasFranca/output/snake.svg" alt="Snake animation" />
+
