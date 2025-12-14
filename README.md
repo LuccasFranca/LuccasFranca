@@ -37,6 +37,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuccasFranca/LuccasFranca/output/snake.svg" alt="Snake animation" />
-
 ###
